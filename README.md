@@ -1,4 +1,4 @@
-# Anonymous AAAI submission
+# Anonymous IJCAI submission
 > Paper ID 813
 
 > Note that we only release the codes and pretrained model for our final model, `P2CNet`, trained on mix dataset.
